@@ -1,2 +1,2 @@
 This is the firts submitted project to Udaity's iOS Nanedegree.
-The app record a sound and play it with different pitch levels.
+The app records a sound and plays it with different pitch levels.
